@@ -1,0 +1,5 @@
+.service:hover {
+    background-color: #3A4256;
+    color: #fff;
+    transition: 0.5s;
+}
